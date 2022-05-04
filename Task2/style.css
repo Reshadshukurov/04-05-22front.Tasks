@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.header{
+    background-color: #0F1629;
+    height: 10vh;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.hero{
+    background-color: #4D85C6;
+    height: 30vh;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+.menu{
+    background-color: #F03D4D;
+    height: 60vh;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 120px;
+    float: left;
+}
+.main{
+    background-color: #24344B;
+    height: 30vh;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 60px;
+    float: left;
+}
+.banner{
+    background-color: #FFD566;
+    height: 15vh;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    float: left;
+}
+.extra{
+    background-color: #4EBC97;
+    height: 15vh;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    float: left;
+}
+.image{
+    background-color: #BAE7E8;
+    height: 15vh;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    float: left;
+}
